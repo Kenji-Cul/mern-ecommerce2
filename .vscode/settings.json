@@ -1,0 +1,10 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#cbad4b",
+    "statusBar.noFolderBackground": "#1017dc",
+    "statusBar.debuggingBackground": "#6417d0"
+  }
+}
